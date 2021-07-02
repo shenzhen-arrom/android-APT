@@ -1,0 +1,5 @@
+include ':apt-api'
+include ':apt-processor'
+include ':apt_annotation'
+include ':app'
+rootProject.name = "APTDemo"
